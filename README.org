@@ -1,0 +1,4 @@
+* pms (Pimp My Scripts)
+
+  This is a command line interface to [[https://github.com/archimag/cl-closure-template][closure-template]], [[https://github.com/mishoo/cl-uglify-js][uglify-js]] and [[http://common-lisp.net/project/parenscript/][parenscript]] libraries.
+
